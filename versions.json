@@ -1,1 +1,10 @@
-
+{
+  "nexus_radar": {
+    "version": "1.1",
+    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.1/Nexus_Radar.exe"
+  },
+  "nexus_emails": {
+    "version": "2.0",
+    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v2.0/Nexus_Emails.exe"
+  }
+}
