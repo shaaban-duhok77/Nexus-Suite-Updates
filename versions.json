@@ -1,7 +1,7 @@
 {
-  "nexus_emails": {
+  "nexus_leads": {
     "version": "43",
-    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v43/Nexus_Emails.exe",
+    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v43/Nexus_Leads.exe",
     "changelog": "Added Turbo Mode 50 Threads & Smart Eco-Crawling"
   },
   "nexus_radar": {
@@ -9,44 +9,24 @@
     "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.0/Nexus_Radar.exe",
     "changelog": "Initial Release of the B2B Intelligence Scanner"
   },
-  "nexus_spinner": {
-    "version": "1.0",
-    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.0/Nexus_Spinner.exe",
-    "changelog": "Advanced Data Cleaning & Formatting"
-  },
   "nexus_phantom": {
     "version": "1.0",
     "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.0/Nexus_Phantom.exe",
     "changelog": "Automated Outreach & Cold Messaging"
   },
-  "nexus_tool_5": {
-    "version": "",
-    "url": "",
-    "changelog": ""
+  "nexus_supreme": {
+    "version": "1.0",
+    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.0/Nexus_Supreme.exe",
+    "changelog": "Enterprise B2B Data Extraction Engine"
   },
-  "nexus_tool_6": {
-    "version": "",
-    "url": "",
-    "changelog": ""
+  "nexus_closer": {
+    "version": "1.0",
+    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.0/Nexus_Closer.exe",
+    "changelog": "AI Sales Brain with Gemini & OpenAI Auto-Fallback"
   },
-  "nexus_tool_7": {
-    "version": "",
-    "url": "",
-    "changelog": ""
-  },
-  "nexus_tool_8": {
-    "version": "",
-    "url": "",
-    "changelog": ""
-  },
-  "nexus_tool_9": {
-    "version": "",
-    "url": "",
-    "changelog": ""
-  },
-  "nexus_tool_10": {
-    "version": "",
-    "url": "",
-    "changelog": ""
+  "nexus_spinner": {
+    "version": "1.0",
+    "url": "https://github.com/shaaban-duhok77/Nexus-Leads-Updates/releases/download/v1.0/Nexus_Spinner.exe",
+    "changelog": "Advanced Data Cleaning & Formatting"
   }
 }
